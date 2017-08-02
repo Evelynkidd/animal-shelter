@@ -1,0 +1,17 @@
+.Sugar{
+  background-color: purple;
+  float: left;
+  width: 30%;
+}
+
+.Flying{
+  background-color: blue;
+  float: left;
+  width: 30%;
+}
+
+.Chipmunk{
+  background-color: green;
+  float: left;
+  width: 30%;
+}
