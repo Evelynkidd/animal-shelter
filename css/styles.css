@@ -1,17 +1,51 @@
+h1 {
+  color: grey;
+  font-size: 100px;
+  font-family: fantasy;
+  text-align: center;
+  border-bottom: 3px solid grey;
+}
+
+body {
+  background-color: lightyellow;
+}
+
 .Sugar{
   background-color: purple;
   float: left;
   width: 30%;
+  padding: 5px;
+  border: 5px solid pink;
+  margin: 10px;
+  text-align: center;
+}
+
+.Sugar p{
+  text-align: left;
 }
 
 .Flying{
   background-color: blue;
   float: left;
   width: 30%;
+  padding: 5px;
+  border: 5px solid lightblue;
+  margin: 10px;
+  text-align: center;
+}
+.Flying p{
+  text-align: left;
 }
 
 .Chipmunk{
   background-color: green;
   float: left;
   width: 30%;
+  padding: 5px;
+  border: 5px solid lightgreen;
+  margin: 10px;
+  text-align: center;
+}
+.Chipmunk p{
+  text-align: left;
 }
